@@ -1,0 +1,11 @@
+.display{
+    margin: 10px;
+    height: 40px;
+    width: 300px;
+   padding-left: 6px;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 1px 1px 3px rgb(74, 73, 73);
+    letter-spacing: 2px;
+    outline: none;
+    }

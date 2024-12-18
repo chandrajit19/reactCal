@@ -1,0 +1,25 @@
+.buttonContainer{
+    border: 1px solid gray;
+    background-color: rgb(117, 209, 234);
+    width: 250px;
+    margin: 10px;
+    padding: 5px 5px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr ;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    border-radius: 5px;
+}
+.button{
+  height: 40px;  
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px gray;
+  opacity: .8;
+  
+}
+.button:hover{
+  opacity: 1;
+}
